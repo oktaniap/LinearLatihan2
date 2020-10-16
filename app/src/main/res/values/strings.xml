@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LinearLatihan2</string>
+    <string name="selamat_datang">Selamat Datang!</string>
+    <string name="upn_veteran_jawa_timur">UPN \"Veteran\" Jawa Timur</string>
+    <string name="fakultas_ekonomi_dan_bisnis">Fakultas Ekonomi dan Bisnis</string>
+    <string name="fakultas_ilmu_sosial_dan_politik">Fakultas Ilmu Sosial dan Politik</string>
+    <string name="fakultas_teknik">Fakultas Teknik</string>
+    <string name="fakultas_pertanian">Fakultas Pertanian</string>
+    <string name="fakultas_arsitektur_dan_desain">Fakultas Arsitektur dan Desain</string>
+    <string name="fakultas_hukum">Fakultas Hukum</string>
+    <string name="fakultas_ilmu_komputer">Fakultas Ilmu Komputer</string>
+    <string name="login">LOGIN</string>
+    <string name="daftar">DAFTAR</string>
+</resources>
